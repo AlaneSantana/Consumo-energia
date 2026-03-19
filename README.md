@@ -4,7 +4,8 @@
 
 ➡️Fórmula utilizada: consumoMensal = (potencia * horasDia * 30) / 1000
 
-***Como executar o programa:***
+**Como executar o programa:**
+Como executar o programa: 🤖
 
 Instale Python e a extensão Python no VS Code 
 <img
@@ -21,4 +22,3 @@ Instale Python e a extensão Python no VS Code
 Abra o projeto
 Abra o terminal (Ctrl + `)
 Rode: app.py 
-
