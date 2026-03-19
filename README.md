@@ -6,7 +6,7 @@
 
 Como executar o programa: 
 
-Instale Python e a extensão Python no VS Code![alt text](image-1.png)![alt text](image-2.png)
+Instale Python e a extensão Python no VS Code
 Abra o projeto
 Abra o terminal (Ctrl + `)
 Rode: app.py 
